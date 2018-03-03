@@ -65,5 +65,8 @@ a:hover {
   padding: 50px;
   font-weight: lighter;
 }
+.center {
+  text-align: center;
+}
 
 
